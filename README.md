@@ -68,7 +68,7 @@ You can replicate and extend these dashboards based on your needs and requiremen
 ## Cleanup
 
 - Delete the AWS CloudFormation Stack deployed, and all the resources will be deleted.
-- Delete the /aws/lambda/EMFLambda Amazon CloudWatch Log Group.
+- Delete the ```/aws/lambda/EMFLambda``` Amazon CloudWatch Log Group.
 
 ## Notices
 
