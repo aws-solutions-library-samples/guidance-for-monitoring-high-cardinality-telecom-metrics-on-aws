@@ -28,6 +28,7 @@ These deployment instructions include a lambda function that generates the metri
 ## Deployment Steps
 
 1. Download telcom_dashboard_demo.yaml CloudFormation template or clone the repo using the command: 
+
 ```bash
 git clone https://github.com/aws-solutions-library-samples/guidance-for-telco-observability-on-aws.git
 ```
