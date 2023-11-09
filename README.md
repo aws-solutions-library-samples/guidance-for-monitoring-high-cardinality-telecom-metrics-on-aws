@@ -33,7 +33,7 @@ These deployment instructions include a lambda function that generates the metri
 git clone https://github.com/aws-solutions-library-samples/guidance-for-telco-observability-on-aws.git
 ```
 
-2. Open the file and replace ‘<accountId>’ with the account ID you are going to deploy the solution through the template (total 13 occurances). Save the updated file.
+2. Open the file and replace '<accountId>' with the account ID you are going to deploy the solution through the template (total 13 occurances). Save the updated file.
 
 2. Sign in AWS Console and open [CloudFormation console](https://us-east-1.console.aws.amazon.com/cloudformation/home)
 
