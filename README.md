@@ -10,7 +10,7 @@ All the dashboards use customer widgets that allow you to navigate from one leve
 2. [Prerequisites](#prerequisites)
 3. [Deployment Steps](#deployment-steps)
 4. [Deployment Validation](#deployment-validation)
-5. [Running the Guidance](#running-the-guidance)
+5. [Running the Guidance](#running-the-solution)
 6. [Next Steps](#next-steps)
 7. [Cleanup](#cleanup)
 
@@ -47,7 +47,7 @@ git clone https://github.com/aws-solutions-library-samples/guidance-for-telco-ob
 
 7. Wait for the stack to complete its deployment. It will take a few minutes.
 
-## Deployment Validation
+## Running the solution
 
 1. Once the stack is deployed, navigate to the resources tab in the Cloudformation stack. Find the AWS Lambda function **“EMFLambda”** and open it. Invoke the function a few times to generate data into your CloudWatchDashboard.
 
