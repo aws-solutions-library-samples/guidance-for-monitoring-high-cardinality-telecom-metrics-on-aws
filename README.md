@@ -1,6 +1,6 @@
-# Guidance for Telco observability on AWS
+# Guidance for Monitoring High-Cardinality Telecom Metrics on AWS
 
-The Guidance for Telco observabiklity on AWS creates 3 Amazon CloudWatch Dashboards at different levels to allow the visualization of the traffic and metrics for telco customers.
+The Guidance for Monitoring High-Cardinality Telecom Metrics on AWS on AWS creates 3 Amazon CloudWatch Dashboards at different levels to allow the visualization of the traffic and metrics for telecommunication customers.
 
 All the dashboards use customer widgets that allow you to navigate from one level to the next.
 
