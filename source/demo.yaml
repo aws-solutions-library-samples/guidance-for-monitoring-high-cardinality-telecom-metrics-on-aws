@@ -1,5 +1,5 @@
 AWSTemplateFormatVersion: 2010-09-09
-Description: EMF Lambda ingestion lambda function will be created by this cfn
+Description: This template deploys the guidance for monitoring high cardinality telecom metrics on AWS (SO9348), which includes a lammbda that generates the data input in EMF format, and the sample CloudWatch Dashboards that visualize and represent the data.
 
 
 Resources:
